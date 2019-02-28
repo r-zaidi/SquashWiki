@@ -5,3 +5,4 @@ Page index test
 
 <link rel="stylesheet" href="style.css">
 
+<script src="main.js"></script>
